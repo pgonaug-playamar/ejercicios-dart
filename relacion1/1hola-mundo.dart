@@ -5,7 +5,8 @@
 
 void main(){
     
-    String nombre = 'Pilar'; // tipo y nombre de la variable
+    String nombre = 'Pilar'; // tipo y nombre de la 
+
     int veces = 1;
     print ('Hola $nombre!'); //la variable con dolar delante dentro del print muestra su valor
     print ('has ejecutado el programa ${veces*2-1} vez(es)');// si es una expresión se pone entre llaves
